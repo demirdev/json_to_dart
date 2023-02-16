@@ -7,7 +7,7 @@ environment:
 dependencies:
   json_ast:
     git:
-      url: https://github.com/demirdev/json_ast.git
+      url: https://github.com/matnex-mix/json_ast.git
   convert: "^3.0.1"
   dart_style: "^2.2.1"
 
